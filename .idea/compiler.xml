@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="1.7">
+      <module name="NewsWatch.app" target="11" />
+      <module name="NewsWatch.buildSrc" target="11" />
+      <module name="NewsWatch.buildSrc.main" target="11" />
+      <module name="NewsWatch.buildSrc.test" target="11" />
+      <module name="NewsWatch.core" target="11" />
+      <module name="NewsWatch.features.main" target="11" />
+      <module name="NewsWatch.features.main.data" target="11" />
+      <module name="NewsWatch.features.main.domain" target="11" />
+      <module name="NewsWatch.features.main.domain.main" target="11" />
+      <module name="NewsWatch.features.main.domain.test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
